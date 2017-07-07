@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 
 public class Conexion {
-
+// jefferson torres
     Connection conecta;
 
    public Connection conectar(){
